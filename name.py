@@ -10,4 +10,3 @@ lastName = input()
 
 print('Perfect!', firstName + ' ' + lastName)
 
-print('')
